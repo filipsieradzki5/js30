@@ -3,12 +3,14 @@
 
 LIVE versions:
 
-https://filipsieradzki5.github.io/js30/1_Drum_kit	
+1. https://filipsieradzki5.github.io/js30/1_Drum_kit	
 
-https://filipsieradzki5.github.io/js30/2_CSS_clock	
+2. https://filipsieradzki5.github.io/js30/2_CSS_clock	
 
-https://filipsieradzki5.github.io/js30/3_JS_CSS_image_editor	
+3. https://filipsieradzki5.github.io/js30/3_JS_CSS_image_editor	
 
-https://filipsieradzki5.github.io/js30/4_Array_cardio_day_1	
+4. https://filipsieradzki5.github.io/js30/4_Array_cardio_day_1	
 
-https://filipsieradzki5.github.io/js30/5_Flex_pannels_image_gallery
+5. https://filipsieradzki5.github.io/js30/5_Flex_pannels_image_gallery
+
+6. https://filipsieradzki5.github.io/js30/6_ajaxTypeAhead
