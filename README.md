@@ -17,8 +17,6 @@ LIVE versions:
 
 7. https://filipsieradzki5.github.io/js30/7_Array_cardio_day_2
 
-8. https://filipsieradzki5.github.io/js30/8_HTML5_canvas
-
 9. https://filipsieradzki5.github.io/js30/9_dev_tool_tricks
 
 10. https://filipsieradzki5.github.io/js30/10_multiple_checkboxes
