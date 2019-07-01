@@ -3,9 +3,48 @@
   <head>
     <meta charset="UTF-8" />
     <title>Console Tricks!</title>
+
+    <link
+    href="https://fonts.googleapis.com/css?family=Amatic+SC"
+    rel="stylesheet"
+    type="text/css"
+  />
   </head>
   <body>
-    <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+    <div id="imgbox">
+    <img src="https://cdn.pixabay.com/photo/2017/03/17/12/40/faucet-2151449_960_720.jpg">
+      <div id ="innerbox">
+        <p onClick="makeGreen()">×BREAK×DOWN×</p>
+      </div>
+    </div>
+    <style>
+      body {
+        background-color: rgb(155, 145, 120);
+      }
+
+      #imgbox {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+
+      #innerbox {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      p {
+        font-family: "Amatic SC";
+        font-size: 40px;
+        font-weight: 600;
+        letter-spacing: 5px;
+        color: white;
+        width: auto;
+        
+      }
+    </style>
 
     <script>
       const dogs = [{ name: "Snickers", age: 2 }, { name: "hugo", age: 8 }];
